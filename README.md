@@ -3,7 +3,7 @@ Built with Python and Open Source APIs to streamline lead Emailing from a CSV
 
 Welcome to the first public release from the labs of **TrinidiumLab** — a free, open-source tool that helps automate your prospecting process using simple scripts and structured data.
 
-> “The future belongs to those who systemize today.” – Trinidium >
+> “The future belongs to those who systemize today.” – Trinidium <
 
 ---
 
