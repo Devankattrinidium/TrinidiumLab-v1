@@ -3,7 +3,7 @@ Built with Python and Open Source APIs to streamline lead Emailing from a CSV
 
 Welcome to the first public release from the labs of **TrinidiumLab** — a free, open-source tool that helps automate your prospecting process using simple scripts and structured data.
 
-> “The future belongs to those who systemize today.” – Trinidium <
+> “The future belongs to those who systemize today.” – Trinidium
 
 ---
 
@@ -22,7 +22,7 @@ Perfect for agency owners, cold outreach pros, or anyone building their list man
 
 ## 🧪 What's Inside
 
-- `main.py` – Starter script to run your CSV-powered logic    
+- `main.py` – Starter script to run the tool    
 - `example.csv` – Sample input format to understand data structure  
 - `.env.example` – Template for your secure API keys/config
 - Other various `.py` files but important  
