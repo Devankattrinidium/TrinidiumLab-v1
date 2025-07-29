@@ -26,9 +26,3 @@ Perfect for agency owners, cold outreach pros, or anyone building their list man
 - `example.csv` – Sample input format to understand data structure  
 - `.env.example` – Template for your secure API keys/config
 - Other various `.py` files but important
-
-## 📁 Project Folder Structure (Visual)
-
-This is how your folder should look before running the tool:
-
-![Folder Structure](assets/folder-structure.png)
