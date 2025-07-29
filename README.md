@@ -31,4 +31,4 @@ Perfect for agency owners, cold outreach pros, or anyone building their list man
 
 This is how your folder should look before running the tool:
 
-![Folder Structure](assets/structure.png)
+![Folder Structure](assets/Structure.png)
